@@ -1462,3 +1462,975 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.13-18.56.04:342][270]LogFileHelpers: Saving map 'Dungeon' took 0.050
 [2022.11.13-18.56.04:351][270]AssetCheck: New page: Asset Save: Dungeon
 [2022.11.13-18.56.04:351][270]LogContentValidation: Display: Validating World /Game/Dungeon.Dungeon
+[2022.11.13-19.02.43:773][538]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C
+[2022.11.13-19.02.43:773][538]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C
+[2022.11.13-19.02.43:774][538]LogActorFactory: Actor Factory spawned Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere as actor: BP_Sky_Sphere_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Sky_Sphere_C_0
+[2022.11.13-19.02.43:775][538]LogActorFactory: Actor Factory spawned Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere as actor: BP_Sky_Sphere_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Sky_Sphere_C_0
+[2022.11.13-19.02.44:017][557]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C
+[2022.11.13-19.02.44:017][557]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C
+[2022.11.13-19.02.44:018][557]LogActorFactory: Actor Factory spawned Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere as actor: BP_Sky_Sphere_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Sky_Sphere_C_1
+[2022.11.13-19.02.44:019][557]LogActorFactory: Actor Factory spawned Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere as actor: BP_Sky_Sphere_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Sky_Sphere_C_1
+[2022.11.13-19.06.07:058][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.11.13-19.06.07:092][194]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dungeon_Auto6
+[2022.11.13-19.06.07:092][194]LogSavePackage: Moving '../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Saved/Dungeon_Auto600F4DA044C09F27293CA7CB36A351F0B.tmp' to '../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Saved/Autosaves/Game/Dungeon_Auto6.umap'
+[2022.11.13-19.06.07:099][194]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dungeon' took 0.049
+[2022.11.13-19.06.07:099][194]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2022.11.13-19.07.48:701][260]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2022.11.13-19.07.48:701][260]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2022.11.13-19.07.48:701][260]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Dungeon.Dungeon:PersistentLevel.SkyLight_0
+[2022.11.13-19.07.48:702][260]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Dungeon.Dungeon:PersistentLevel.SkyLight_0
+[2022.11.13-19.07.48:817][261]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2022.11.13-19.07.48:817][261]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2022.11.13-19.07.48:818][261]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Dungeon.Dungeon:PersistentLevel.SkyLight_1
+[2022.11.13-19.07.48:818][261]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Dungeon.Dungeon:PersistentLevel.SkyLight_1
+[2022.11.13-19.07.51:531][577]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2022.11.13-19.07.51:531][577]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2022.11.13-19.07.51:531][577]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Dungeon.Dungeon:PersistentLevel.SkyLight_2
+[2022.11.13-19.07.51:531][577]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Dungeon.Dungeon:PersistentLevel.SkyLight_2
+[2022.11.13-19.07.52:043][631]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2022.11.13-19.07.52:043][631]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2022.11.13-19.07.52:044][631]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Dungeon.Dungeon:PersistentLevel.SkyLight_3
+[2022.11.13-19.07.52:044][631]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Dungeon.Dungeon:PersistentLevel.SkyLight_3
+[2022.11.13-19.09.40:831][830]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2022.11.13-19.09.40:831][830]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2022.11.13-19.09.40:832][830]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Dungeon.Dungeon:PersistentLevel.DirectionalLight_0
+[2022.11.13-19.09.40:832][830]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Dungeon.Dungeon:PersistentLevel.DirectionalLight_0
+[2022.11.13-19.09.41:346][879]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2022.11.13-19.09.41:346][879]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2022.11.13-19.09.41:347][879]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Dungeon.Dungeon:PersistentLevel.DirectionalLight_1
+[2022.11.13-19.09.41:347][879]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Dungeon.Dungeon:PersistentLevel.DirectionalLight_1
+[2022.11.13-19.10.11:073][766]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.11.13-19.10.11:073][766]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2022.11.13-19.16.07:447][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.11.13-19.16.07:482][670]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dungeon_Auto7
+[2022.11.13-19.16.07:482][670]LogSavePackage: Moving '../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Saved/Dungeon_Auto7B565E85B4A85919711A8419630B6CF11.tmp' to '../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Saved/Autosaves/Game/Dungeon_Auto7.umap'
+[2022.11.13-19.16.07:488][670]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dungeon' took 0.050
+[2022.11.13-19.16.07:489][670]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2022.11.13-19.18.12:764][335]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.13-19.18.12:764][335]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.13-19.18.13:330][395]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.13-19.18.13:330][395]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.13-19.18.52:498][985]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.13-19.18.52:498][985]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.13-19.19.04:392][ 56]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MedievalDungeon/Materials/M_Tiling_Master.M_Tiling_Master
+[2022.11.13-19.19.04:400][ 56]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 02D81D2C65CF7E59A724A12CC2C159D61B5A830A), compiling. 
+[2022.11.13-19.19.04:515][ 56]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.13-19.19.04:727][ 56]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: CDC62AEA13E886F50EFFC5E5A9654C3AE4B2789B), compiling. 
+[2022.11.13-19.19.04:732][ 56]LogMaterial: Warning: M_Tiling_Master: Requesting an invalid TextureIndex! (2 / 2)
+[2022.11.13-19.19.04:732][ 56]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 9FF08EB0FF83C687D1687AFAF5B94FA6CD6EC15D), compiling. 
+[2022.11.13-19.19.04:734][ 56]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 785B35450DB77174EDA1BAEEE099DD292D5DD870), compiling. 
+[2022.11.13-19.19.04:736][ 56]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 517A2F7E59276336D5B986B6AEA912D72BB74C7C), compiling. 
+[2022.11.13-19.19.04:737][ 56]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 534742F3220A5DE101FA965F8B33FD8CDD177A55), compiling. 
+[2022.11.13-19.19.04:739][ 56]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureObjectParameter_7 in PCD3D_SM5, Default, SM5 (DDC key hash: DA91A574379E7C4633087B59F297D04A3E635939), compiling. 
+[2022.11.13-19.19.04:767][ 56]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-19.19.04:767][ 56]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.19.04:767][ 56]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.19.04:767][ 56]MaterialEditorStats: Shader Count: 0
+[2022.11.13-19.19.04:778][ 56]LogSlate: Took 0.004049 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.13-19.19.04:782][ 56]LogViewport: Scene viewport resized to 376x449, mode Windowed.
+[2022.11.13-19.19.06:365][128]LogShaderCompilers: Display: ================================================
+[2022.11.13-19.19.06:365][128]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.13-19.19.06:365][128]LogShaderCompilers: Display: Total job queries 43, among them cache hits 0 (0.00%)
+[2022.11.13-19.19.06:366][128]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2022.11.13-19.19.06:366][128]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.11.13-19.19.06:366][128]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.13-19.19.06:366][128]LogShaderCompilers: Display: Shaders Compiled: 34
+[2022.11.13-19.19.06:366][128]LogShaderCompilers: Display: Jobs assigned 10, completed 2 (20.00%)
+[2022.11.13-19.19.06:366][128]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.11.13-19.19.06:366][128]LogShaderCompilers: Display: Time job spent in pending queue: average 0.33 s, longest 1.50 s
+[2022.11.13-19.19.06:366][128]LogShaderCompilers: Display: Job execution time: average 1.47 s, max 1.47 s
+[2022.11.13-19.19.06:366][128]LogShaderCompilers: Display: Job life time (pending + execution): average 1.51 s, max 1.51
+[2022.11.13-19.19.06:366][128]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.51 s
+[2022.11.13-19.19.06:366][128]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.11.13-19.19.06:366][128]LogShaderCompilers: Display: Average processing rate: 1.33 jobs/sec
+[2022.11.13-19.19.06:366][128]LogShaderCompilers: Display: Effective parallelization: 0.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.13-19.19.06:366][128]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2022.11.13-19.19.06:366][128]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2022.11.13-19.19.06:366][128]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2022.11.13-19.19.06:366][128]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2022.11.13-19.19.06:366][128]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 51.74% of total time (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2022.11.13-19.19.06:366][128]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap - 48.26% of total time (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2022.11.13-19.19.06:366][128]LogShaderCompilers: Display: ================================================
+[2022.11.13-19.19.07:241][154]LogViewport: Scene viewport resized to 375x460, mode Windowed.
+[2022.11.13-19.19.07:380][156]LogViewport: Scene viewport resized to 151x157, mode Windowed.
+[2022.11.13-19.19.07:601][165]LogViewport: Scene viewport resized to 376x449, mode Windowed.
+[2022.11.13-19.19.07:861][187]LogViewport: Scene viewport resized to 375x460, mode Windowed.
+[2022.11.13-19.19.07:932][189]LogViewport: Scene viewport resized to 159x168, mode Windowed.
+[2022.11.13-19.19.07:992][190]LogViewport: Scene viewport resized to 376x449, mode Windowed.
+[2022.11.13-19.19.08:373][228]LogSlate: Window 'M_Tiling_Master' being destroyed
+[2022.11.13-19.19.08:375][228]MaterialEditorStats: Texture samplers: 6/16
+[2022.11.13-19.19.08:375][228]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.19.08:375][228]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.19.08:375][228]MaterialEditorStats: Shader Count: 12
+[2022.11.13-19.19.16:531][194]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 2CB3A502CBA7B29E65939DE3A42F5344FE3812AD), compiling. 
+[2022.11.13-19.19.16:608][203]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-19.19.16:608][203]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.19.16:608][203]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.19.16:608][203]MaterialEditorStats: Shader Count: 0
+[2022.11.13-19.19.17:055][253]MaterialEditorStats: Texture samplers: 3/16
+[2022.11.13-19.19.17:055][253]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.19.17:055][253]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.19.17:055][253]MaterialEditorStats: Shader Count: 1
+[2022.11.13-19.19.17:463][299]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-19.19.17:463][299]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.19.17:463][299]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.19.17:463][299]MaterialEditorStats: Shader Count: 2
+[2022.11.13-19.19.23:805][352]LogMaterialEditor: Applying material M_Tiling_Master
+[2022.11.13-19.19.26:646][352]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: A3F9813683ACB159A05B260063F9F985280A5E14), compiling. 
+[2022.11.13-19.19.26:660][352]LogMaterial: Display: Missing cached shadermap for M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 79CF110F340CEADDC22CAC7DBF93D7857555EC14), compiling. 
+[2022.11.13-19.19.26:665][352]LogMaterial: Display: Missing cached shadermap for M_BrickFloor_Clean_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: 75F400602AA4DA859109C42429462562BB0B4083), compiling. 
+[2022.11.13-19.19.26:703][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.11.13-19.19.27:920][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.11.13-19.19.27:926][352]MaterialEditorStats: Texture samplers: 3/16
+[2022.11.13-19.19.27:926][352]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.19.27:926][352]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.19.27:926][352]MaterialEditorStats: Shader Count: 2
+[2022.11.13-19.19.28:337][363]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-19.19.28:337][363]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.19.28:337][363]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.19.28:337][363]MaterialEditorStats: Shader Count: 6
+[2022.11.13-19.19.32:034][799]LogMaterialEditor: Saving and Compiling material M_Tiling_Master
+[2022.11.13-19.19.35:703][799]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2022.11.13-19.19.35:703][799]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.049949s
+[2022.11.13-19.19.43:523][799]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003132s (7.868343s overbudget)
+[2022.11.13-19.19.43:570][799]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Materials/M_Tiling_Master
+[2022.11.13-19.19.43:570][799]LogSavePackage: Moving '../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Saved/M_Tiling_MasterFF33577E4FD9D3315ADC5ABAA65042F4.tmp' to '../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Content/MedievalDungeon/Materials/M_Tiling_Master.uasset'
+[2022.11.13-19.19.43:582][799]AssetCheck: New page: Asset Save: M_Tiling_Master
+[2022.11.13-19.19.43:582][799]LogContentValidation: Display: Validating Material /Game/MedievalDungeon/Materials/M_Tiling_Master.M_Tiling_Master
+[2022.11.13-19.19.43:582][799]MaterialEditorStats: Base pass shader: 137 instructions
+[2022.11.13-19.19.43:583][799]MaterialEditorStats: Base pass shader with Surface Lightmap: 163 instructions
+[2022.11.13-19.19.43:583][799]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2022.11.13-19.19.43:583][799]MaterialEditorStats: Texture samplers: 6/16
+[2022.11.13-19.19.43:583][799]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.19.43:583][799]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.19.43:583][799]MaterialEditorStats: Shader Count: 75
+[2022.11.13-19.20.50:279][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeon" FILE="../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Content/Dungeon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.13-19.20.50:287][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.13-19.20.50:321][ 74]LogSavePackage: Moving output files for package: /Game/Dungeon
+[2022.11.13-19.20.50:322][ 74]LogSavePackage: Moving '../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Saved/Dungeon8B8141364D6C8775E39EA0912F9B1B9E.tmp' to '../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Content/Dungeon.umap'
+[2022.11.13-19.20.50:343][ 74]AssetCheck: New page: Asset Save: Dungeon
+[2022.11.13-19.20.50:343][ 74]LogContentValidation: Display: Validating World /Game/Dungeon.Dungeon
+[2022.11.13-19.35.25:518][406]Cmd: TRANSACTION UNDO
+[2022.11.13-19.35.25:518][406]LogEditorTransaction: Undo Move Elements
+[2022.11.13-19.35.25:539][406]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: EF9AEA4399E3B7438711021493563EBC6AC681BD), compiling. 
+[2022.11.13-19.35.25:559][406]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-19.35.25:560][406]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.35.25:560][406]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.35.25:560][406]MaterialEditorStats: Shader Count: 0
+[2022.11.13-19.35.25:629][407]LogShaderCompilers: Display: ================================================
+[2022.11.13-19.35.25:629][407]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.13-19.35.25:629][407]LogShaderCompilers: Display: Total job queries 140, among them cache hits 17 (12.14%)
+[2022.11.13-19.35.25:629][407]LogShaderCompilers: Display: Tracking 92 distinct input hashes that result in 55 distinct outputs (59.78%)
+[2022.11.13-19.35.25:629][407]LogShaderCompilers: Display: RAM used: 0.16 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2022.11.13-19.35.25:629][407]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.13-19.35.25:629][407]LogShaderCompilers: Display: Shaders Compiled: 39
+[2022.11.13-19.35.25:629][407]LogShaderCompilers: Display: Jobs assigned 92, completed 92 (100.00%)
+[2022.11.13-19.35.25:629][407]LogShaderCompilers: Display: Average time worker was idle: 2.23 s
+[2022.11.13-19.35.25:629][407]LogShaderCompilers: Display: Time job spent in pending queue: average 4.05 s, longest 10.66 s
+[2022.11.13-19.35.25:629][407]LogShaderCompilers: Display: Job execution time: average 1.30 s, max 3.00 s
+[2022.11.13-19.35.25:629][407]LogShaderCompilers: Display: Job life time (pending + execution): average 5.35 s, max 11.37
+[2022.11.13-19.35.25:629][407]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.59 s
+[2022.11.13-19.35.25:629][407]LogShaderCompilers: Display: Jobs were issued in 92 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.11.13-19.35.25:629][407]LogShaderCompilers: Display: Average processing rate: 5.54 jobs/sec
+[2022.11.13-19.35.25:629][407]LogShaderCompilers: Display: Effective parallelization: 5.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.13-19.35.25:629][407]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.13-19.35.25:629][407]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 1.33 sec, max 1.33 sec, min 1.33 sec)
+[2022.11.13-19.35.25:629][407]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    3 times, average 1.21 sec, max 1.26 sec, min 1.17 sec)
+[2022.11.13-19.35.25:630][407]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    3 times, average 1.21 sec, max 1.40 sec, min 1.02 sec)
+[2022.11.13-19.35.25:630][407]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    3 times, average 1.18 sec, max 1.24 sec, min 1.09 sec)
+[2022.11.13-19.35.25:630][407]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    3 times, average 1.16 sec, max 1.34 sec, min 0.99 sec)
+[2022.11.13-19.35.25:630][407]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.13-19.35.25:630][407]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.98% of total time (compiled    6 times, average 1.09 sec, max 1.37 sec, min 0.84 sec)
+[2022.11.13-19.35.25:630][407]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.24% of total time (compiled    6 times, average 0.97 sec, max 1.27 sec, min 0.68 sec)
+[2022.11.13-19.35.25:630][407]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.78% of total time (compiled    5 times, average 1.08 sec, max 1.22 sec, min 0.83 sec)
+[2022.11.13-19.35.25:630][407]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 4.44% of total time (compiled    4 times, average 1.04 sec, max 1.11 sec, min 1.01 sec)
+[2022.11.13-19.35.25:630][407]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 3.89% of total time (compiled    3 times, average 1.21 sec, max 1.26 sec, min 1.17 sec)
+[2022.11.13-19.35.25:630][407]LogShaderCompilers: Display: ================================================
+[2022.11.13-19.35.25:648][408]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-19.35.25:648][408]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.35.25:648][408]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.35.25:648][408]MaterialEditorStats: Shader Count: 4
+[2022.11.13-19.35.28:646][711]Cmd: TRANSACTION UNDO
+[2022.11.13-19.35.28:646][711]LogEditorTransaction: Undo Clicking on Elements
+[2022.11.13-19.35.28:663][711]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 9C9661C60EA919203E06AF81E1CEF4481484DE79), compiling. 
+[2022.11.13-19.35.28:677][711]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-19.35.28:677][711]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.35.28:677][711]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.35.28:677][711]MaterialEditorStats: Shader Count: 0
+[2022.11.13-19.35.28:752][713]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-19.35.28:752][713]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.35.28:752][713]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.35.28:752][713]MaterialEditorStats: Shader Count: 4
+[2022.11.13-19.35.29:401][760]Cmd: TRANSACTION UNDO
+[2022.11.13-19.35.29:401][760]LogEditorTransaction: Undo Move Elements
+[2022.11.13-19.35.29:422][760]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: F0EE2337258BD7714458C9CE7F4F16B27BC1D207), compiling. 
+[2022.11.13-19.35.29:431][760]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-19.35.29:432][760]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.35.29:432][760]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.35.29:432][760]MaterialEditorStats: Shader Count: 0
+[2022.11.13-19.35.29:500][762]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-19.35.29:500][762]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.35.29:500][762]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.35.29:500][762]MaterialEditorStats: Shader Count: 4
+[2022.11.13-19.35.29:910][807]Cmd: TRANSACTION UNDO
+[2022.11.13-19.35.29:910][807]LogEditorTransaction: Undo Clicking on Elements
+[2022.11.13-19.35.29:926][807]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 7721AFF44A3E4962141149E4383888706D0EB132), compiling. 
+[2022.11.13-19.35.29:933][807]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-19.35.29:933][807]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.35.29:933][807]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.35.29:933][807]MaterialEditorStats: Shader Count: 0
+[2022.11.13-19.35.29:990][809]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-19.35.29:990][809]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.35.29:990][809]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.35.29:990][809]MaterialEditorStats: Shader Count: 4
+[2022.11.13-19.35.30:607][879]Cmd: TRANSACTION UNDO
+[2022.11.13-19.35.30:607][879]LogEditorTransaction: Undo Move Elements
+[2022.11.13-19.35.30:628][879]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 6B9C2C1295F39578EF236673DFEDE17A468A8ABD), compiling. 
+[2022.11.13-19.35.30:638][879]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-19.35.30:638][879]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.35.30:638][879]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.35.30:638][879]MaterialEditorStats: Shader Count: 0
+[2022.11.13-19.35.30:723][881]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-19.35.30:723][881]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.35.30:723][881]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.35.30:723][881]MaterialEditorStats: Shader Count: 4
+[2022.11.13-19.37.34:449][278]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2022.11.13-19.37.34:449][278]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2022.11.13-19.37.34:450][278]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_433
+[2022.11.13-19.37.35:251][369]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2022.11.13-19.37.35:251][369]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2022.11.13-19.37.35:252][369]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_434
+[2022.11.13-19.44.04:456][741]Cmd: DELETE
+[2022.11.13-19.44.04:456][741]Cmd: ACTOR DELETE
+[2022.11.13-19.44.04:462][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-19.44.04:474][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.11.13-19.44.04:475][741]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2022.11.13-19.44.29:297][544]Cmd: DELETE
+[2022.11.13-19.44.29:297][544]Cmd: ACTOR DELETE
+[2022.11.13-19.44.29:302][544]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-19.44.29:303][544]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-19.44.29:303][544]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-19.44.29:303][544]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-19.44.29:303][544]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-19.44.29:304][544]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-19.44.29:304][544]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-19.44.29:304][544]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-19.44.29:304][544]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-19.44.29:304][544]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-19.44.29:305][544]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-19.44.29:305][544]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-19.44.29:305][544]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-19.44.29:314][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.13-19.44.29:315][544]LogEditorActor: Deleted 13 Actors (0.018 secs)
+[2022.11.13-19.44.38:597][612]Cmd: DELETE
+[2022.11.13-19.44.38:597][612]Cmd: ACTOR DELETE
+[2022.11.13-19.44.38:602][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-19.44.38:603][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-19.44.38:603][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-19.44.38:612][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.11.13-19.44.38:613][612]LogEditorActor: Deleted 3 Actors (0.015 secs)
+[2022.11.13-19.44.59:566][992]Cmd: TRANSACTION UNDO
+[2022.11.13-19.44.59:566][992]LogEditorTransaction: Undo Delete Elements
+[2022.11.13-19.44.59:590][992]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: E8D180FCE53E5C9BD3C2AEDC387A0550A28AB4FF), compiling. 
+[2022.11.13-19.44.59:604][992]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-19.44.59:604][992]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.44.59:604][992]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.44.59:605][992]MaterialEditorStats: Shader Count: 0
+[2022.11.13-19.44.59:677][993]LogShaderCompilers: Display: ================================================
+[2022.11.13-19.44.59:677][993]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.13-19.44.59:677][993]LogShaderCompilers: Display: Total job queries 160, among them cache hits 37 (23.12%)
+[2022.11.13-19.44.59:677][993]LogShaderCompilers: Display: Tracking 92 distinct input hashes that result in 55 distinct outputs (59.78%)
+[2022.11.13-19.44.59:677][993]LogShaderCompilers: Display: RAM used: 0.16 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2022.11.13-19.44.59:677][993]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.13-19.44.59:677][993]LogShaderCompilers: Display: Shaders Compiled: 39
+[2022.11.13-19.44.59:677][993]LogShaderCompilers: Display: Jobs assigned 92, completed 92 (100.00%)
+[2022.11.13-19.44.59:677][993]LogShaderCompilers: Display: Average time worker was idle: 2.23 s
+[2022.11.13-19.44.59:677][993]LogShaderCompilers: Display: Time job spent in pending queue: average 4.05 s, longest 10.66 s
+[2022.11.13-19.44.59:677][993]LogShaderCompilers: Display: Job execution time: average 1.30 s, max 3.00 s
+[2022.11.13-19.44.59:677][993]LogShaderCompilers: Display: Job life time (pending + execution): average 5.35 s, max 11.37
+[2022.11.13-19.44.59:677][993]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.59 s
+[2022.11.13-19.44.59:677][993]LogShaderCompilers: Display: Jobs were issued in 92 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.11.13-19.44.59:677][993]LogShaderCompilers: Display: Average processing rate: 5.54 jobs/sec
+[2022.11.13-19.44.59:677][993]LogShaderCompilers: Display: Effective parallelization: 5.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.13-19.44.59:677][993]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.13-19.44.59:677][993]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 1.33 sec, max 1.33 sec, min 1.33 sec)
+[2022.11.13-19.44.59:677][993]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    3 times, average 1.21 sec, max 1.26 sec, min 1.17 sec)
+[2022.11.13-19.44.59:677][993]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    3 times, average 1.21 sec, max 1.40 sec, min 1.02 sec)
+[2022.11.13-19.44.59:677][993]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    3 times, average 1.18 sec, max 1.24 sec, min 1.09 sec)
+[2022.11.13-19.44.59:677][993]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    3 times, average 1.16 sec, max 1.34 sec, min 0.99 sec)
+[2022.11.13-19.44.59:677][993]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.13-19.44.59:677][993]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.98% of total time (compiled    6 times, average 1.09 sec, max 1.37 sec, min 0.84 sec)
+[2022.11.13-19.44.59:677][993]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.24% of total time (compiled    6 times, average 0.97 sec, max 1.27 sec, min 0.68 sec)
+[2022.11.13-19.44.59:677][993]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.78% of total time (compiled    5 times, average 1.08 sec, max 1.22 sec, min 0.83 sec)
+[2022.11.13-19.44.59:677][993]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 4.44% of total time (compiled    4 times, average 1.04 sec, max 1.11 sec, min 1.01 sec)
+[2022.11.13-19.44.59:677][993]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 3.89% of total time (compiled    3 times, average 1.21 sec, max 1.26 sec, min 1.17 sec)
+[2022.11.13-19.44.59:677][993]LogShaderCompilers: Display: ================================================
+[2022.11.13-19.44.59:703][994]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-19.44.59:703][994]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.44.59:703][994]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.44.59:703][994]MaterialEditorStats: Shader Count: 4
+[2022.11.13-19.45.00:878][ 91]Cmd: TRANSACTION UNDO
+[2022.11.13-19.45.00:878][ 91]LogEditorTransaction: Undo Clicking on Elements
+[2022.11.13-19.45.00:896][ 91]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: FE33474A97218376E4DEA7895142AD57A895E678), compiling. 
+[2022.11.13-19.45.00:904][ 91]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-19.45.00:904][ 91]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.45.00:904][ 91]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.45.00:904][ 91]MaterialEditorStats: Shader Count: 0
+[2022.11.13-19.45.00:969][ 93]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-19.45.00:969][ 93]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.45.00:969][ 93]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.45.00:969][ 93]MaterialEditorStats: Shader Count: 4
+[2022.11.13-19.45.01:264][117]Cmd: TRANSACTION UNDO
+[2022.11.13-19.45.01:264][117]LogEditorTransaction: Undo Clicking on Elements
+[2022.11.13-19.45.01:283][117]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 0D1978942DDD3137EE227593826EED348413DCC4), compiling. 
+[2022.11.13-19.45.01:290][117]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-19.45.01:290][117]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.45.01:290][117]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.45.01:290][117]MaterialEditorStats: Shader Count: 0
+[2022.11.13-19.45.01:355][119]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-19.45.01:356][119]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.45.01:356][119]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.45.01:356][119]MaterialEditorStats: Shader Count: 4
+[2022.11.13-19.45.01:685][149]Cmd: TRANSACTION UNDO
+[2022.11.13-19.45.01:685][149]LogEditorTransaction: Undo Clicking on Elements
+[2022.11.13-19.45.01:697][149]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 20708B617F302769EE3CB9D85CC65E7340B68D4E), compiling. 
+[2022.11.13-19.45.01:704][149]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-19.45.01:704][149]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.45.01:704][149]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.45.01:704][149]MaterialEditorStats: Shader Count: 0
+[2022.11.13-19.45.01:752][151]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-19.45.01:752][151]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.45.01:752][151]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.45.01:752][151]MaterialEditorStats: Shader Count: 4
+[2022.11.13-19.45.02:490][227]Cmd: TRANSACTION UNDO
+[2022.11.13-19.45.02:490][227]LogEditorTransaction: Undo Delete Elements
+[2022.11.13-19.45.02:530][227]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 99FFE11FBAC7237F4D2613E685C11AD26605B4C4), compiling. 
+[2022.11.13-19.45.02:539][227]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-19.45.02:539][227]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.45.02:539][227]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.45.02:539][227]MaterialEditorStats: Shader Count: 0
+[2022.11.13-19.45.02:616][229]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-19.45.02:616][229]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.45.02:616][229]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.45.02:616][229]MaterialEditorStats: Shader Count: 4
+[2022.11.13-19.45.06:842][676]Cmd: TRANSACTION UNDO
+[2022.11.13-19.45.06:842][676]LogEditorTransaction: Undo Clicking on Elements
+[2022.11.13-19.45.06:859][676]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: A14CE3C6D9E0A85EBD6C72C74D10BF5D51D32F12), compiling. 
+[2022.11.13-19.45.06:873][676]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-19.45.06:873][676]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.45.06:873][676]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.45.06:873][676]MaterialEditorStats: Shader Count: 0
+[2022.11.13-19.45.06:957][678]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-19.45.06:957][678]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.45.06:957][678]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.45.06:957][678]MaterialEditorStats: Shader Count: 4
+[2022.11.13-19.45.09:833][950]Cmd: TRANSACTION REDO
+[2022.11.13-19.45.09:833][950]LogEditorTransaction: Redo Clicking on Elements
+[2022.11.13-19.45.09:850][950]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 0E7C7726C997FB60F0B7AA993A4BF26FD7F16B0B), compiling. 
+[2022.11.13-19.45.09:858][950]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-19.45.09:858][950]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.45.09:858][950]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.45.09:858][950]MaterialEditorStats: Shader Count: 0
+[2022.11.13-19.45.09:926][952]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-19.45.09:926][952]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.45.09:926][952]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.45.09:926][952]MaterialEditorStats: Shader Count: 4
+[2022.11.13-19.45.10:273][983]Cmd: TRANSACTION REDO
+[2022.11.13-19.45.10:273][983]LogEditorTransaction: Redo Delete Elements
+[2022.11.13-19.45.10:289][983]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: F6F20CDBA5DE806794F5EF817471491BF2F506AF), compiling. 
+[2022.11.13-19.45.10:300][983]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-19.45.10:300][983]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.45.10:300][983]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.45.10:300][983]MaterialEditorStats: Shader Count: 0
+[2022.11.13-19.45.10:360][985]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-19.45.10:360][985]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.45.10:360][985]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.45.10:360][985]MaterialEditorStats: Shader Count: 4
+[2022.11.13-19.45.12:292][187]Cmd: TRANSACTION UNDO
+[2022.11.13-19.45.12:292][187]LogEditorTransaction: Undo Delete Elements
+[2022.11.13-19.45.12:331][187]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 3164BBAF4A59D62290245AFDCBB9A156B9D4B697), compiling. 
+[2022.11.13-19.45.12:340][187]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-19.45.12:340][187]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.45.12:340][187]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.45.12:340][187]MaterialEditorStats: Shader Count: 0
+[2022.11.13-19.45.12:418][189]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-19.45.12:418][189]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.45.12:418][189]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.45.12:418][189]MaterialEditorStats: Shader Count: 4
+[2022.11.13-19.45.59:149][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.11.13-19.45.59:193][937]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dungeon_Auto8
+[2022.11.13-19.45.59:193][937]LogSavePackage: Moving '../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Saved/Dungeon_Auto89259471C4ACD6374ABA4FCA4EFD3669A.tmp' to '../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Saved/Autosaves/Game/Dungeon_Auto8.umap'
+[2022.11.13-19.45.59:200][937]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dungeon' took 0.060
+[2022.11.13-19.45.59:200][937]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.060
+[2022.11.13-19.46.11:683][591]Cmd: TRANSACTION REDO
+[2022.11.13-19.46.11:683][591]LogEditorTransaction: Redo Delete Elements
+[2022.11.13-19.46.11:692][591]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 2444ED8F2EBE35C7A9BB98F663D609995B9300EE), compiling. 
+[2022.11.13-19.46.11:709][591]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-19.46.11:709][591]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.46.11:709][591]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.46.11:709][591]MaterialEditorStats: Shader Count: 0
+[2022.11.13-19.46.11:786][593]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-19.46.11:786][593]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.46.11:786][593]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.46.11:786][593]MaterialEditorStats: Shader Count: 4
+[2022.11.13-19.46.12:820][680]Cmd: TRANSACTION REDO
+[2022.11.13-19.46.12:820][680]LogEditorTransaction: Redo Clicking on Elements
+[2022.11.13-19.46.12:841][680]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 6224E4B74A4722AAD6AE25727A2FB0E1917A57FE), compiling. 
+[2022.11.13-19.46.12:847][680]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-19.46.12:847][680]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.46.12:847][680]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.46.12:847][680]MaterialEditorStats: Shader Count: 0
+[2022.11.13-19.46.12:916][682]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-19.46.12:916][682]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.46.12:916][682]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.46.12:916][682]MaterialEditorStats: Shader Count: 4
+[2022.11.13-19.46.13:313][717]Cmd: TRANSACTION REDO
+[2022.11.13-19.46.13:313][717]LogEditorTransaction: Redo Clicking on Elements
+[2022.11.13-19.46.13:331][717]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 6E4E35208CF728E3E56B4A89367891C1C8FA94FF), compiling. 
+[2022.11.13-19.46.13:338][717]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-19.46.13:338][717]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.46.13:338][717]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.46.13:338][717]MaterialEditorStats: Shader Count: 0
+[2022.11.13-19.46.13:404][719]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-19.46.13:404][719]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.46.13:404][719]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.46.13:404][719]MaterialEditorStats: Shader Count: 4
+[2022.11.13-19.46.13:726][748]Cmd: TRANSACTION REDO
+[2022.11.13-19.46.13:726][748]LogEditorTransaction: Redo Clicking on Elements
+[2022.11.13-19.46.13:744][748]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 8B55914574339B4EDFEBD71B73AB10E07FBCF7DD), compiling. 
+[2022.11.13-19.46.13:751][748]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-19.46.13:751][748]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.46.13:751][748]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.46.13:751][748]MaterialEditorStats: Shader Count: 0
+[2022.11.13-19.46.13:816][750]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-19.46.13:816][750]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.46.13:816][750]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.46.13:816][750]MaterialEditorStats: Shader Count: 4
+[2022.11.13-19.46.14:189][783]Cmd: TRANSACTION REDO
+[2022.11.13-19.46.14:189][783]LogEditorTransaction: Redo Delete Elements
+[2022.11.13-19.46.14:204][783]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 63139DD25C01EBFFC77400CEDEC62F298290B90F), compiling. 
+[2022.11.13-19.46.14:215][783]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-19.46.14:215][783]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.46.14:215][783]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.46.14:215][783]MaterialEditorStats: Shader Count: 0
+[2022.11.13-19.46.14:272][785]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-19.46.14:273][785]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.46.14:273][785]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.46.14:273][785]MaterialEditorStats: Shader Count: 4
+[2022.11.13-19.46.20:415][447]Cmd: DELETE
+[2022.11.13-19.46.20:415][447]Cmd: ACTOR DELETE
+[2022.11.13-19.46.20:420][447]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-19.46.20:430][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.11.13-19.46.20:431][447]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2022.11.13-19.47.24:373][604]Cmd: TRANSACTION UNDO
+[2022.11.13-19.47.24:373][604]LogEditorTransaction: Undo Clicking on Elements
+[2022.11.13-19.47.24:390][604]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 5504488FCD95786F9F0AC521F38A9AA3DFB76C19), compiling. 
+[2022.11.13-19.47.24:404][604]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-19.47.24:404][604]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.47.24:404][604]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.47.24:404][604]MaterialEditorStats: Shader Count: 0
+[2022.11.13-19.47.24:503][606]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-19.47.24:503][606]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.47.24:503][606]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.47.24:503][606]MaterialEditorStats: Shader Count: 4
+[2022.11.13-19.48.56:161][955]LogEditorViewport: Clicking Background
+[2022.11.13-19.49.03:597][772]LogEditorViewport: Clicking Background
+[2022.11.13-19.49.58:972][687]Cmd: DELETE
+[2022.11.13-19.49.58:972][687]Cmd: ACTOR DELETE
+[2022.11.13-19.49.58:977][687]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-19.49.58:988][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.11.13-19.49.58:989][687]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2022.11.13-19.50.52:047][713]Cmd: TRANSACTION UNDO
+[2022.11.13-19.50.52:047][713]LogEditorTransaction: Undo Move Elements
+[2022.11.13-19.50.52:068][713]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 6D387721941D31FC7E8203F3DB9E25E479C79116), compiling. 
+[2022.11.13-19.50.52:088][713]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-19.50.52:088][713]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.50.52:088][713]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.50.52:088][713]MaterialEditorStats: Shader Count: 0
+[2022.11.13-19.50.52:159][714]LogShaderCompilers: Display: ================================================
+[2022.11.13-19.50.52:159][714]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.13-19.50.52:159][714]LogShaderCompilers: Display: Total job queries 220, among them cache hits 97 (44.09%)
+[2022.11.13-19.50.52:159][714]LogShaderCompilers: Display: Tracking 92 distinct input hashes that result in 55 distinct outputs (59.78%)
+[2022.11.13-19.50.52:159][714]LogShaderCompilers: Display: RAM used: 0.16 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2022.11.13-19.50.52:159][714]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.13-19.50.52:159][714]LogShaderCompilers: Display: Shaders Compiled: 39
+[2022.11.13-19.50.52:159][714]LogShaderCompilers: Display: Jobs assigned 92, completed 92 (100.00%)
+[2022.11.13-19.50.52:159][714]LogShaderCompilers: Display: Average time worker was idle: 2.23 s
+[2022.11.13-19.50.52:159][714]LogShaderCompilers: Display: Time job spent in pending queue: average 4.05 s, longest 10.66 s
+[2022.11.13-19.50.52:159][714]LogShaderCompilers: Display: Job execution time: average 1.30 s, max 3.00 s
+[2022.11.13-19.50.52:159][714]LogShaderCompilers: Display: Job life time (pending + execution): average 5.35 s, max 11.37
+[2022.11.13-19.50.52:159][714]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.59 s
+[2022.11.13-19.50.52:159][714]LogShaderCompilers: Display: Jobs were issued in 92 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.11.13-19.50.52:159][714]LogShaderCompilers: Display: Average processing rate: 5.54 jobs/sec
+[2022.11.13-19.50.52:159][714]LogShaderCompilers: Display: Effective parallelization: 5.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.13-19.50.52:159][714]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.13-19.50.52:159][714]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 1.33 sec, max 1.33 sec, min 1.33 sec)
+[2022.11.13-19.50.52:159][714]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    3 times, average 1.21 sec, max 1.26 sec, min 1.17 sec)
+[2022.11.13-19.50.52:159][714]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    3 times, average 1.21 sec, max 1.40 sec, min 1.02 sec)
+[2022.11.13-19.50.52:159][714]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    3 times, average 1.18 sec, max 1.24 sec, min 1.09 sec)
+[2022.11.13-19.50.52:159][714]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    3 times, average 1.16 sec, max 1.34 sec, min 0.99 sec)
+[2022.11.13-19.50.52:159][714]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.13-19.50.52:159][714]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.98% of total time (compiled    6 times, average 1.09 sec, max 1.37 sec, min 0.84 sec)
+[2022.11.13-19.50.52:159][714]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.24% of total time (compiled    6 times, average 0.97 sec, max 1.27 sec, min 0.68 sec)
+[2022.11.13-19.50.52:159][714]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.78% of total time (compiled    5 times, average 1.08 sec, max 1.22 sec, min 0.83 sec)
+[2022.11.13-19.50.52:159][714]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 4.44% of total time (compiled    4 times, average 1.04 sec, max 1.11 sec, min 1.01 sec)
+[2022.11.13-19.50.52:159][714]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 3.89% of total time (compiled    3 times, average 1.21 sec, max 1.26 sec, min 1.17 sec)
+[2022.11.13-19.50.52:159][714]LogShaderCompilers: Display: ================================================
+[2022.11.13-19.50.52:180][715]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-19.50.52:180][715]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.50.52:180][715]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.50.52:180][715]MaterialEditorStats: Shader Count: 4
+[2022.11.13-19.51.35:315][244]Cmd: TRANSACTION UNDO
+[2022.11.13-19.51.35:315][244]LogEditorTransaction: Undo Move Elements
+[2022.11.13-19.51.35:337][244]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: A5A40C7E1AEB53615E255D4585AC6D6EA41B8CF5), compiling. 
+[2022.11.13-19.51.35:356][244]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-19.51.35:356][244]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.51.35:356][244]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.51.35:356][244]MaterialEditorStats: Shader Count: 0
+[2022.11.13-19.51.35:449][246]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-19.51.35:449][246]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.51.35:449][246]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.51.35:449][246]MaterialEditorStats: Shader Count: 4
+[2022.11.13-19.52.32:487][735]LogDerivedDataCache: C:/Users/lluca/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.475 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.13-19.58.39:842][698]Cmd: TRANSACTION UNDO
+[2022.11.13-19.58.39:842][698]LogEditorTransaction: Undo Move Elements
+[2022.11.13-19.58.39:870][698]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 045C167BB73756F1BDC8E8A8DC367C0336B5F6C7), compiling. 
+[2022.11.13-19.58.39:887][698]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-19.58.39:887][698]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.58.39:887][698]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.58.39:887][698]MaterialEditorStats: Shader Count: 0
+[2022.11.13-19.58.39:962][699]LogShaderCompilers: Display: ================================================
+[2022.11.13-19.58.39:962][699]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.13-19.58.39:962][699]LogShaderCompilers: Display: Total job queries 228, among them cache hits 105 (46.05%)
+[2022.11.13-19.58.39:962][699]LogShaderCompilers: Display: Tracking 92 distinct input hashes that result in 55 distinct outputs (59.78%)
+[2022.11.13-19.58.39:962][699]LogShaderCompilers: Display: RAM used: 0.16 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2022.11.13-19.58.39:962][699]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.13-19.58.39:962][699]LogShaderCompilers: Display: Shaders Compiled: 39
+[2022.11.13-19.58.39:962][699]LogShaderCompilers: Display: Jobs assigned 92, completed 92 (100.00%)
+[2022.11.13-19.58.39:962][699]LogShaderCompilers: Display: Average time worker was idle: 2.23 s
+[2022.11.13-19.58.39:962][699]LogShaderCompilers: Display: Time job spent in pending queue: average 4.05 s, longest 10.66 s
+[2022.11.13-19.58.39:962][699]LogShaderCompilers: Display: Job execution time: average 1.30 s, max 3.00 s
+[2022.11.13-19.58.39:962][699]LogShaderCompilers: Display: Job life time (pending + execution): average 5.35 s, max 11.37
+[2022.11.13-19.58.39:962][699]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.59 s
+[2022.11.13-19.58.39:962][699]LogShaderCompilers: Display: Jobs were issued in 92 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.11.13-19.58.39:962][699]LogShaderCompilers: Display: Average processing rate: 5.54 jobs/sec
+[2022.11.13-19.58.39:962][699]LogShaderCompilers: Display: Effective parallelization: 5.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.13-19.58.39:962][699]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.13-19.58.39:962][699]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 1.33 sec, max 1.33 sec, min 1.33 sec)
+[2022.11.13-19.58.39:962][699]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    3 times, average 1.21 sec, max 1.26 sec, min 1.17 sec)
+[2022.11.13-19.58.39:962][699]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    3 times, average 1.21 sec, max 1.40 sec, min 1.02 sec)
+[2022.11.13-19.58.39:962][699]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    3 times, average 1.18 sec, max 1.24 sec, min 1.09 sec)
+[2022.11.13-19.58.39:962][699]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    3 times, average 1.16 sec, max 1.34 sec, min 0.99 sec)
+[2022.11.13-19.58.39:962][699]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.13-19.58.39:962][699]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.98% of total time (compiled    6 times, average 1.09 sec, max 1.37 sec, min 0.84 sec)
+[2022.11.13-19.58.39:962][699]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.24% of total time (compiled    6 times, average 0.97 sec, max 1.27 sec, min 0.68 sec)
+[2022.11.13-19.58.39:962][699]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.78% of total time (compiled    5 times, average 1.08 sec, max 1.22 sec, min 0.83 sec)
+[2022.11.13-19.58.39:962][699]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 4.44% of total time (compiled    4 times, average 1.04 sec, max 1.11 sec, min 1.01 sec)
+[2022.11.13-19.58.39:962][699]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 3.89% of total time (compiled    3 times, average 1.21 sec, max 1.26 sec, min 1.17 sec)
+[2022.11.13-19.58.39:962][699]LogShaderCompilers: Display: ================================================
+[2022.11.13-19.58.39:981][700]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-19.58.39:981][700]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-19.58.39:981][700]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-19.58.39:981][700]MaterialEditorStats: Shader Count: 4
+[2022.11.13-20.01.55:365][467]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch_C
+[2022.11.13-20.01.55:365][467]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch_C
+[2022.11.13-20.01.55:367][467]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_C_0
+[2022.11.13-20.01.55:368][467]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_C_0
+[2022.11.13-20.01.57:292][653]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch_C
+[2022.11.13-20.01.57:292][653]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch_C
+[2022.11.13-20.01.57:295][653]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_C_1
+[2022.11.13-20.01.57:296][653]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_C_1
+[2022.11.13-20.02.04:494][502]Cmd: DELETE
+[2022.11.13-20.02.04:494][502]Cmd: ACTOR DELETE
+[2022.11.13-20.02.04:501][502]LogEditorActor: Deleted Actor: BP_Torch_C
+[2022.11.13-20.02.04:515][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.11.13-20.02.04:517][502]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2022.11.13-20.02.09:333][ 66]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch_C
+[2022.11.13-20.02.09:333][ 66]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch_C
+[2022.11.13-20.02.09:335][ 66]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_C_2
+[2022.11.13-20.02.09:336][ 66]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_C_2
+[2022.11.13-20.02.09:808][108]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch_C
+[2022.11.13-20.02.09:808][108]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch_C
+[2022.11.13-20.02.09:810][108]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_C_3
+[2022.11.13-20.02.09:811][108]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_C_3
+[2022.11.13-20.02.12:675][431]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.13-20.02.12:675][431]LogEditorClassViewer: Warning: Class /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile_C has parent /Script/TP_FirstPerson.TP_FirstPersonProjectile, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.13-20.02.30:833][431]LogSlate: Window 'Select Path' being destroyed
+[2022.11.13-20.02.32:182][431]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2022.11.13-20.02.32:196][431]LogActorComponent: UnregisterComponent: (/Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C:SM_Torch_GEN_VARIABLE) Not registered. Aborting.
+[2022.11.13-20.02.32:218][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.11.13-20.02.32:228][431]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon
+[2022.11.13-20.02.32:230][431]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.13-20.02.33:865][431]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2022.11.13-20.02.36:952][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.11.13-20.02.37:008][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dungeon_Auto9
+[2022.11.13-20.02.37:008][773]LogSavePackage: Moving '../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Saved/Dungeon_Auto9CD44B7FC40D919D919DC018ED87D45CA.tmp' to '../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Saved/Autosaves/Game/Dungeon_Auto9.umap'
+[2022.11.13-20.02.37:015][773]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dungeon' took 0.090
+[2022.11.13-20.02.37:015][773]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.090
+[2022.11.13-20.02.37:015][773]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_Torch_Dungeon] ([2] browsable assets)...
+[2022.11.13-20.02.37:038][773]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon]
+[2022.11.13-20.02.37:038][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Torch_Dungeon]
+[2022.11.13-20.02.37:042][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_Torch_Dungeon_Auto9
+[2022.11.13-20.02.37:042][773]LogSavePackage: Moving '../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Saved/BP_Torch_Dungeon_Auto9F5742C7A49F9280705F88DBB2AE51ACE.tmp' to '../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Saved/Autosaves/Game/BP_Torch_Dungeon_Auto9.uasset'
+[2022.11.13-20.02.37:043][773]LogFileHelpers: Auto-saving content packages took 0.028
+[2022.11.13-20.02.39:036][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Torch_Dungeon" FILE="../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Content/BP_Torch_Dungeon.uasset" SILENT=true
+[2022.11.13-20.02.39:039][996]LogSavePackage: Moving output files for package: /Game/BP_Torch_Dungeon
+[2022.11.13-20.02.39:039][996]LogSavePackage: Moving '../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Saved/BP_Torch_DungeonCCFF81BD45B71A6610A6F096FD300526.tmp' to '../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Content/BP_Torch_Dungeon.uasset'
+[2022.11.13-20.02.39:049][996]AssetCheck: New page: Asset Save: BP_Torch_Dungeon
+[2022.11.13-20.02.39:050][996]LogContentValidation: Display: Validating Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon
+[2022.11.13-20.04.34:502][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Torch_Dungeon" FILE="../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Content/BP_Torch_Dungeon.uasset" SILENT=true
+[2022.11.13-20.04.34:506][ 96]LogSavePackage: Moving output files for package: /Game/BP_Torch_Dungeon
+[2022.11.13-20.04.34:506][ 96]LogSavePackage: Moving '../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Saved/BP_Torch_DungeonF4A1DD444FF937FFC0CA72B27E1A9FCE.tmp' to '../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Content/BP_Torch_Dungeon.uasset'
+[2022.11.13-20.04.34:517][ 96]AssetCheck: New page: Asset Save: BP_Torch_Dungeon
+[2022.11.13-20.04.34:518][ 96]LogContentValidation: Display: Validating Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon
+[2022.11.13-20.05.40:915][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Torch_Dungeon" FILE="../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Content/BP_Torch_Dungeon.uasset" SILENT=true
+[2022.11.13-20.05.40:919][900]LogSavePackage: Moving output files for package: /Game/BP_Torch_Dungeon
+[2022.11.13-20.05.40:920][900]LogSavePackage: Moving '../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Saved/BP_Torch_DungeonDECF1E6246C7CD2684CD2881C23834CC.tmp' to '../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Content/BP_Torch_Dungeon.uasset'
+[2022.11.13-20.05.40:932][900]AssetCheck: New page: Asset Save: BP_Torch_Dungeon
+[2022.11.13-20.05.40:932][900]LogContentValidation: Display: Validating Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon
+[2022.11.13-20.05.58:476][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeon" FILE="../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Content/Dungeon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.13-20.05.58:505][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.11.13-20.05.58:560][818]LogSavePackage: Moving output files for package: /Game/Dungeon
+[2022.11.13-20.05.58:561][818]LogSavePackage: Moving '../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Saved/Dungeon7A9CE37F425F330A9472B68D7FC030EF.tmp' to '../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Content/Dungeon.umap'
+[2022.11.13-20.05.58:590][818]AssetCheck: New page: Asset Save: Dungeon
+[2022.11.13-20.05.58:590][818]LogContentValidation: Display: Validating World /Game/Dungeon.Dungeon
+[2022.11.13-20.06.09:980][ 52]Cmd: TRANSACTION UNDO
+[2022.11.13-20.06.09:980][ 52]LogEditorTransaction: Undo Move Elements
+[2022.11.13-20.06.09:997][ 52]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 92D0AB539C00198BFB8442880C91FC5A8BD81097), compiling. 
+[2022.11.13-20.06.10:012][ 52]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-20.06.10:013][ 52]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-20.06.10:013][ 52]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-20.06.10:013][ 52]MaterialEditorStats: Shader Count: 0
+[2022.11.13-20.06.10:079][ 53]LogShaderCompilers: Display: ================================================
+[2022.11.13-20.06.10:079][ 53]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.13-20.06.10:079][ 53]LogShaderCompilers: Display: Total job queries 232, among them cache hits 109 (46.98%)
+[2022.11.13-20.06.10:079][ 53]LogShaderCompilers: Display: Tracking 92 distinct input hashes that result in 55 distinct outputs (59.78%)
+[2022.11.13-20.06.10:079][ 53]LogShaderCompilers: Display: RAM used: 0.16 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2022.11.13-20.06.10:079][ 53]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.13-20.06.10:079][ 53]LogShaderCompilers: Display: Shaders Compiled: 39
+[2022.11.13-20.06.10:079][ 53]LogShaderCompilers: Display: Jobs assigned 92, completed 92 (100.00%)
+[2022.11.13-20.06.10:079][ 53]LogShaderCompilers: Display: Average time worker was idle: 2.23 s
+[2022.11.13-20.06.10:079][ 53]LogShaderCompilers: Display: Time job spent in pending queue: average 4.05 s, longest 10.66 s
+[2022.11.13-20.06.10:079][ 53]LogShaderCompilers: Display: Job execution time: average 1.30 s, max 3.00 s
+[2022.11.13-20.06.10:079][ 53]LogShaderCompilers: Display: Job life time (pending + execution): average 5.35 s, max 11.37
+[2022.11.13-20.06.10:079][ 53]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.59 s
+[2022.11.13-20.06.10:079][ 53]LogShaderCompilers: Display: Jobs were issued in 92 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.11.13-20.06.10:079][ 53]LogShaderCompilers: Display: Average processing rate: 5.54 jobs/sec
+[2022.11.13-20.06.10:079][ 53]LogShaderCompilers: Display: Effective parallelization: 5.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.13-20.06.10:079][ 53]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.13-20.06.10:079][ 53]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 1.33 sec, max 1.33 sec, min 1.33 sec)
+[2022.11.13-20.06.10:079][ 53]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    3 times, average 1.21 sec, max 1.26 sec, min 1.17 sec)
+[2022.11.13-20.06.10:079][ 53]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    3 times, average 1.21 sec, max 1.40 sec, min 1.02 sec)
+[2022.11.13-20.06.10:079][ 53]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    3 times, average 1.18 sec, max 1.24 sec, min 1.09 sec)
+[2022.11.13-20.06.10:079][ 53]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    3 times, average 1.16 sec, max 1.34 sec, min 0.99 sec)
+[2022.11.13-20.06.10:079][ 53]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.13-20.06.10:079][ 53]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.98% of total time (compiled    6 times, average 1.09 sec, max 1.37 sec, min 0.84 sec)
+[2022.11.13-20.06.10:079][ 53]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.24% of total time (compiled    6 times, average 0.97 sec, max 1.27 sec, min 0.68 sec)
+[2022.11.13-20.06.10:079][ 53]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.78% of total time (compiled    5 times, average 1.08 sec, max 1.22 sec, min 0.83 sec)
+[2022.11.13-20.06.10:079][ 53]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 4.44% of total time (compiled    4 times, average 1.04 sec, max 1.11 sec, min 1.01 sec)
+[2022.11.13-20.06.10:079][ 53]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 3.89% of total time (compiled    3 times, average 1.21 sec, max 1.26 sec, min 1.17 sec)
+[2022.11.13-20.06.10:079][ 53]LogShaderCompilers: Display: ================================================
+[2022.11.13-20.06.10:096][ 54]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-20.06.10:097][ 54]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-20.06.10:097][ 54]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-20.06.10:097][ 54]MaterialEditorStats: Shader Count: 4
+[2022.11.13-20.06.10:625][ 86]Cmd: TRANSACTION UNDO
+[2022.11.13-20.06.10:625][ 86]LogEditorTransaction: Undo Move Elements
+[2022.11.13-20.06.10:638][ 86]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 3F31CFFF1D74DCDD8FFCDD528B6567973ABA325F), compiling. 
+[2022.11.13-20.06.10:645][ 86]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-20.06.10:645][ 86]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-20.06.10:645][ 86]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-20.06.10:645][ 86]MaterialEditorStats: Shader Count: 0
+[2022.11.13-20.06.10:721][ 88]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-20.06.10:721][ 88]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-20.06.10:721][ 88]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-20.06.10:721][ 88]MaterialEditorStats: Shader Count: 4
+[2022.11.13-20.06.45:852][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Torch_Dungeon" FILE="../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Content/BP_Torch_Dungeon.uasset" SILENT=true
+[2022.11.13-20.06.45:856][655]LogSavePackage: Moving output files for package: /Game/BP_Torch_Dungeon
+[2022.11.13-20.06.45:856][655]LogSavePackage: Moving '../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Saved/BP_Torch_Dungeon8F5EF8D14380DF68FB7309ADE4F125F0.tmp' to '../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Content/BP_Torch_Dungeon.uasset'
+[2022.11.13-20.06.45:868][655]AssetCheck: New page: Asset Save: BP_Torch_Dungeon
+[2022.11.13-20.06.45:868][655]LogContentValidation: Display: Validating Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon
+[2022.11.13-20.06.47:167][810]Cmd: TRANSACTION UNDO
+[2022.11.13-20.06.47:167][810]LogEditorTransaction: Undo Modify Component(s)
+[2022.11.13-20.06.47:173][810]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 6576BD18087257E6CDF0DFF2ED180709E55CFA57), compiling. 
+[2022.11.13-20.06.47:186][810]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-20.06.47:186][810]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-20.06.47:187][810]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-20.06.47:187][810]MaterialEditorStats: Shader Count: 0
+[2022.11.13-20.06.47:280][813]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-20.06.47:280][813]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-20.06.47:280][813]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-20.06.47:280][813]MaterialEditorStats: Shader Count: 4
+[2022.11.13-20.06.59:300][125]Cmd: TRANSACTION UNDO
+[2022.11.13-20.06.59:300][125]LogEditorTransaction: Undo Move Elements
+[2022.11.13-20.06.59:305][125]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: A4EA7105D754764524306BE7EEC0E2C113DE6D18), compiling. 
+[2022.11.13-20.06.59:319][125]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-20.06.59:319][125]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-20.06.59:319][125]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-20.06.59:319][125]MaterialEditorStats: Shader Count: 0
+[2022.11.13-20.06.59:400][127]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-20.06.59:400][127]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-20.06.59:400][127]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-20.06.59:400][127]MaterialEditorStats: Shader Count: 4
+[2022.11.13-20.07.01:557][303]Cmd: TRANSACTION UNDO
+[2022.11.13-20.07.01:557][303]LogEditorTransaction: Undo Clicking on Elements
+[2022.11.13-20.07.01:569][303]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: D1839B73543F68474D951F37D4B2A26BC8CC6E4F), compiling. 
+[2022.11.13-20.07.01:575][303]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-20.07.01:575][303]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-20.07.01:575][303]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-20.07.01:575][303]MaterialEditorStats: Shader Count: 0
+[2022.11.13-20.07.01:635][305]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-20.07.01:635][305]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-20.07.01:635][305]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-20.07.01:635][305]MaterialEditorStats: Shader Count: 4
+[2022.11.13-20.07.05:489][678]Cmd: DELETE
+[2022.11.13-20.07.05:489][678]Cmd: ACTOR DELETE
+[2022.11.13-20.07.05:490][678]LogEditorActor: Cannot delete component PointLightComponent /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_0.Torch_PointLight: Can't delete non-instanced components or the scene root.
+[2022.11.13-20.08.05:022][330]LogViewport: Scene viewport resized to 857x428, mode Windowed.
+[2022.11.13-20.08.05:062][331]LogViewport: Scene viewport resized to 1073x537, mode Windowed.
+[2022.11.13-20.08.05:098][332]LogViewport: Scene viewport resized to 1152x576, mode Windowed.
+[2022.11.13-20.08.05:137][333]LogViewport: Scene viewport resized to 1170x585, mode Windowed.
+[2022.11.13-20.08.06:200][450]LogViewport: Scene viewport resized to 949x474, mode Windowed.
+[2022.11.13-20.08.06:240][451]LogViewport: Scene viewport resized to 745x372, mode Windowed.
+[2022.11.13-20.08.06:293][452]LogViewport: Scene viewport resized to 617x307, mode Windowed.
+[2022.11.13-20.08.06:337][453]LogViewport: Scene viewport resized to 585x291, mode Windowed.
+[2022.11.13-20.08.06:372][454]LogViewport: Scene viewport resized to 582x290, mode Windowed.
+[2022.11.13-20.08.07:086][533]LogViewport: Scene viewport resized to 693x346, mode Windowed.
+[2022.11.13-20.08.07:112][534]LogViewport: Scene viewport resized to 906x453, mode Windowed.
+[2022.11.13-20.08.07:151][535]LogViewport: Scene viewport resized to 1096x548, mode Windowed.
+[2022.11.13-20.08.07:190][536]LogViewport: Scene viewport resized to 1161x581, mode Windowed.
+[2022.11.13-20.08.07:218][537]LogViewport: Scene viewport resized to 1170x585, mode Windowed.
+[2022.11.13-20.09.40:415][342]Cmd: TRANSACTION UNDO
+[2022.11.13-20.09.40:415][342]LogEditorTransaction: Undo Move Elements
+[2022.11.13-20.09.40:429][342]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 5F8ECA0026369A223FE7AE9F6A6308A7272F013A), compiling. 
+[2022.11.13-20.09.40:445][342]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-20.09.40:445][342]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-20.09.40:445][342]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-20.09.40:445][342]MaterialEditorStats: Shader Count: 0
+[2022.11.13-20.09.40:487][344]LogShaderCompilers: Display: ================================================
+[2022.11.13-20.09.40:487][344]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.13-20.09.40:487][344]LogShaderCompilers: Display: Total job queries 252, among them cache hits 129 (51.19%)
+[2022.11.13-20.09.40:487][344]LogShaderCompilers: Display: Tracking 92 distinct input hashes that result in 55 distinct outputs (59.78%)
+[2022.11.13-20.09.40:487][344]LogShaderCompilers: Display: RAM used: 0.16 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2022.11.13-20.09.40:487][344]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.13-20.09.40:487][344]LogShaderCompilers: Display: Shaders Compiled: 39
+[2022.11.13-20.09.40:487][344]LogShaderCompilers: Display: Jobs assigned 92, completed 92 (100.00%)
+[2022.11.13-20.09.40:487][344]LogShaderCompilers: Display: Average time worker was idle: 2.23 s
+[2022.11.13-20.09.40:487][344]LogShaderCompilers: Display: Time job spent in pending queue: average 4.05 s, longest 10.66 s
+[2022.11.13-20.09.40:487][344]LogShaderCompilers: Display: Job execution time: average 1.30 s, max 3.00 s
+[2022.11.13-20.09.40:487][344]LogShaderCompilers: Display: Job life time (pending + execution): average 5.35 s, max 11.37
+[2022.11.13-20.09.40:487][344]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.59 s
+[2022.11.13-20.09.40:487][344]LogShaderCompilers: Display: Jobs were issued in 92 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.11.13-20.09.40:487][344]LogShaderCompilers: Display: Average processing rate: 5.54 jobs/sec
+[2022.11.13-20.09.40:487][344]LogShaderCompilers: Display: Effective parallelization: 5.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.13-20.09.40:487][344]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.13-20.09.40:487][344]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 1.33 sec, max 1.33 sec, min 1.33 sec)
+[2022.11.13-20.09.40:487][344]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    3 times, average 1.21 sec, max 1.26 sec, min 1.17 sec)
+[2022.11.13-20.09.40:487][344]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    3 times, average 1.21 sec, max 1.40 sec, min 1.02 sec)
+[2022.11.13-20.09.40:487][344]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    3 times, average 1.18 sec, max 1.24 sec, min 1.09 sec)
+[2022.11.13-20.09.40:487][344]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    3 times, average 1.16 sec, max 1.34 sec, min 0.99 sec)
+[2022.11.13-20.09.40:487][344]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.13-20.09.40:487][344]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.98% of total time (compiled    6 times, average 1.09 sec, max 1.37 sec, min 0.84 sec)
+[2022.11.13-20.09.40:487][344]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.24% of total time (compiled    6 times, average 0.97 sec, max 1.27 sec, min 0.68 sec)
+[2022.11.13-20.09.40:487][344]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.78% of total time (compiled    5 times, average 1.08 sec, max 1.22 sec, min 0.83 sec)
+[2022.11.13-20.09.40:487][344]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 4.44% of total time (compiled    4 times, average 1.04 sec, max 1.11 sec, min 1.01 sec)
+[2022.11.13-20.09.40:487][344]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 3.89% of total time (compiled    3 times, average 1.21 sec, max 1.26 sec, min 1.17 sec)
+[2022.11.13-20.09.40:487][344]LogShaderCompilers: Display: ================================================
+[2022.11.13-20.09.40:511][345]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-20.09.40:511][345]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-20.09.40:511][345]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-20.09.40:511][345]MaterialEditorStats: Shader Count: 4
+[2022.11.13-20.10.03:801][ 46]Cmd: TRANSACTION UNDO
+[2022.11.13-20.10.03:801][ 46]LogEditorTransaction: Undo Move Elements
+[2022.11.13-20.10.03:806][ 46]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 93796BC619CEA75C5FB2F94090EDC6CC192741E2), compiling. 
+[2022.11.13-20.10.03:818][ 46]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-20.10.03:818][ 46]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-20.10.03:818][ 46]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-20.10.03:818][ 46]MaterialEditorStats: Shader Count: 0
+[2022.11.13-20.10.03:880][ 49]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-20.10.03:880][ 49]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-20.10.03:880][ 49]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-20.10.03:880][ 49]MaterialEditorStats: Shader Count: 4
+[2022.11.13-20.10.05:303][194]Cmd: TRANSACTION REDO
+[2022.11.13-20.10.05:303][194]LogEditorTransaction: Redo Move Elements
+[2022.11.13-20.10.05:308][194]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 3ADB8690F90392574F1BF7FA7EFD1A424B6B0680), compiling. 
+[2022.11.13-20.10.05:315][194]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-20.10.05:315][194]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-20.10.05:315][194]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-20.10.05:315][194]MaterialEditorStats: Shader Count: 0
+[2022.11.13-20.10.05:342][197]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-20.10.05:342][197]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-20.10.05:342][197]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-20.10.05:343][197]MaterialEditorStats: Shader Count: 4
+[2022.11.13-20.10.07:903][499]Cmd: DELETE
+[2022.11.13-20.10.07:903][499]Cmd: ACTOR DELETE
+[2022.11.13-20.10.07:910][499]LogEditorActor: Deleted Actor: BP_Torch_Dungeon_C
+[2022.11.13-20.10.07:946][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.11.13-20.10.07:949][499]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2022.11.13-20.13.01:808][274]Cmd: DELETE
+[2022.11.13-20.13.01:808][274]Cmd: ACTOR DELETE
+[2022.11.13-20.13.01:817][274]LogEditorActor: Deleted Actor: BP_Torch_Dungeon_C
+[2022.11.13-20.13.01:817][274]LogEditorActor: Deleted Actor: BP_Torch_Dungeon_C
+[2022.11.13-20.13.01:854][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.11.13-20.13.01:857][274]LogEditorActor: Deleted 2 Actors (0.048 secs)
+[2022.11.13-20.13.10:157][850]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BD8650659DC841D2D9EA7723B75841B4E87FA1DF), compiling. 
+[2022.11.13-20.13.10:720][912]LogShaderCompilers: Display: ================================================
+[2022.11.13-20.13.10:720][912]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.13-20.13.10:720][912]LogShaderCompilers: Display: Total job queries 264, among them cache hits 137 (51.89%)
+[2022.11.13-20.13.10:720][912]LogShaderCompilers: Display: Tracking 93 distinct input hashes that result in 56 distinct outputs (60.22%)
+[2022.11.13-20.13.10:720][912]LogShaderCompilers: Display: RAM used: 0.16 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2022.11.13-20.13.10:720][912]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.13-20.13.10:720][912]LogShaderCompilers: Display: Shaders Compiled: 41
+[2022.11.13-20.13.10:720][912]LogShaderCompilers: Display: Jobs assigned 96, completed 93 (96.88%)
+[2022.11.13-20.13.10:720][912]LogShaderCompilers: Display: Average time worker was idle: 147.90 s
+[2022.11.13-20.13.10:720][912]LogShaderCompilers: Display: Time job spent in pending queue: average 3.88 s, longest 10.66 s
+[2022.11.13-20.13.10:720][912]LogShaderCompilers: Display: Job execution time: average 1.29 s, max 3.00 s
+[2022.11.13-20.13.10:720][912]LogShaderCompilers: Display: Job life time (pending + execution): average 5.29 s, max 11.37
+[2022.11.13-20.13.10:720][912]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 17.14 s
+[2022.11.13-20.13.10:720][912]LogShaderCompilers: Display: Jobs were issued in 96 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.11.13-20.13.10:720][912]LogShaderCompilers: Display: Average processing rate: 5.43 jobs/sec
+[2022.11.13-20.13.10:720][912]LogShaderCompilers: Display: Effective parallelization: 5.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.13-20.13.10:720][912]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.13-20.13.10:720][912]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 1.33 sec, max 1.33 sec, min 1.33 sec)
+[2022.11.13-20.13.10:720][912]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    3 times, average 1.21 sec, max 1.26 sec, min 1.17 sec)
+[2022.11.13-20.13.10:720][912]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    3 times, average 1.21 sec, max 1.40 sec, min 1.02 sec)
+[2022.11.13-20.13.10:720][912]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    3 times, average 1.18 sec, max 1.24 sec, min 1.09 sec)
+[2022.11.13-20.13.10:720][912]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    3 times, average 1.16 sec, max 1.34 sec, min 0.99 sec)
+[2022.11.13-20.13.10:720][912]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.13-20.13.10:720][912]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.96% of total time (compiled    6 times, average 1.09 sec, max 1.37 sec, min 0.84 sec)
+[2022.11.13-20.13.10:720][912]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.22% of total time (compiled    6 times, average 0.97 sec, max 1.27 sec, min 0.68 sec)
+[2022.11.13-20.13.10:720][912]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.76% of total time (compiled    5 times, average 1.08 sec, max 1.22 sec, min 0.83 sec)
+[2022.11.13-20.13.10:720][912]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 4.43% of total time (compiled    4 times, average 1.04 sec, max 1.11 sec, min 1.01 sec)
+[2022.11.13-20.13.10:720][912]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 3.88% of total time (compiled    3 times, average 1.21 sec, max 1.26 sec, min 1.17 sec)
+[2022.11.13-20.13.10:720][912]LogShaderCompilers: Display: ================================================
+[2022.11.13-20.13.22:287][984]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier_C
+[2022.11.13-20.13.22:287][984]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier_C
+[2022.11.13-20.13.22:292][984]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier as actor: BP_Chandalier_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Chandalier_C_0
+[2022.11.13-20.13.22:297][984]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier as actor: BP_Chandalier_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Chandalier_C_0
+[2022.11.13-20.13.22:882][  6]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier_C
+[2022.11.13-20.13.22:882][  6]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier_C
+[2022.11.13-20.13.22:887][  6]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier as actor: BP_Chandalier_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Chandalier_C_1
+[2022.11.13-20.13.22:892][  6]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier as actor: BP_Chandalier_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Chandalier_C_1
+[2022.11.13-20.13.45:181][183]Cmd: TRANSACTION UNDO
+[2022.11.13-20.13.45:181][183]LogEditorTransaction: Undo Clicking on Elements
+[2022.11.13-20.13.45:198][183]LogMaterial: Display: Missing cached shadermap for Preview:M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: DCA6079457FA43DAC84C7C483733E5FCA62A6DF3), compiling. 
+[2022.11.13-20.13.45:211][183]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.13-20.13.45:211][183]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-20.13.45:211][183]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-20.13.45:211][183]MaterialEditorStats: Shader Count: 0
+[2022.11.13-20.13.45:299][186]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.13-20.13.45:299][186]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.13-20.13.45:299][186]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.13-20.13.45:299][186]MaterialEditorStats: Shader Count: 4
+[2022.11.13-20.15.58:775][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.11.13-20.15.58:843][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dungeon_Auto0
+[2022.11.13-20.15.58:844][557]LogSavePackage: Moving '../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Saved/Dungeon_Auto04D89F1164F6AEFC297069BB5EF63211C.tmp' to '../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Saved/Autosaves/Game/Dungeon_Auto0.umap'
+[2022.11.13-20.15.58:850][557]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dungeon' took 0.158
+[2022.11.13-20.15.58:850][557]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.158
+[2022.11.13-20.16.21:651][175]Cmd: DELETE
+[2022.11.13-20.16.21:651][175]Cmd: ACTOR DELETE
+[2022.11.13-20.16.21:657][175]LogEditorActor: Deleted Actor: BP_Torch_Dungeon_C
+[2022.11.13-20.16.21:658][175]LogEditorActor: Deleted Actor: BP_Torch_Dungeon_C
+[2022.11.13-20.16.21:658][175]LogEditorActor: Deleted Actor: BP_Torch_Dungeon_C
+[2022.11.13-20.16.21:659][175]LogEditorActor: Deleted Actor: BP_Torch_Dungeon_C
+[2022.11.13-20.16.21:684][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.11.13-20.16.21:688][175]LogEditorActor: Deleted 4 Actors (0.037 secs)
+[2022.11.13-20.16.28:666][986]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.16.28:666][986]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.16.28:670][986]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_15
+[2022.11.13-20.16.28:672][986]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_15
+[2022.11.13-20.16.29:682][ 70]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.16.29:682][ 70]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.16.29:684][ 70]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_16
+[2022.11.13-20.16.29:685][ 70]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_16
+[2022.11.13-20.18.29:325][885]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.18.29:325][885]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.18.29:327][885]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_19
+[2022.11.13-20.18.29:328][885]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_19
+[2022.11.13-20.18.30:267][978]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.18.30:267][978]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.18.30:269][978]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_20
+[2022.11.13-20.18.30:271][978]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_20
+[2022.11.13-20.18.59:449][368]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.18.59:449][368]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.18.59:451][368]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_21
+[2022.11.13-20.18.59:452][368]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_21
+[2022.11.13-20.19.05:604][ 36]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.19.05:604][ 36]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.19.05:606][ 36]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_22
+[2022.11.13-20.19.05:608][ 36]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_22
+[2022.11.13-20.20.20:092][697]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.20.20:092][697]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.20.20:094][697]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_24
+[2022.11.13-20.20.20:095][697]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_24
+[2022.11.13-20.20.22:501][955]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.20.22:501][955]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.20.22:503][955]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_25
+[2022.11.13-20.20.22:504][955]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_25
+[2022.11.13-20.20.24:547][180]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.20.24:547][180]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.20.24:549][180]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_26
+[2022.11.13-20.20.24:550][180]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_26
+[2022.11.13-20.20.25:497][268]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.20.25:498][268]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.20.25:500][268]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_27
+[2022.11.13-20.20.25:501][268]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_27
+[2022.11.13-20.21.26:027][292]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.21.26:027][292]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.21.26:029][292]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_28
+[2022.11.13-20.21.26:030][292]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_28
+[2022.11.13-20.21.27:131][381]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.21.27:131][381]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.21.27:134][381]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_29
+[2022.11.13-20.21.27:135][381]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_29
+[2022.11.13-20.22.11:092][529]Cmd: DELETE
+[2022.11.13-20.22.11:092][529]Cmd: ACTOR DELETE
+[2022.11.13-20.22.11:101][529]LogEditorActor: Deleted Actor: BP_Torch_Dungeon_C
+[2022.11.13-20.22.11:153][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.11.13-20.22.11:160][529]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2022.11.13-20.22.15:404][ 25]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.22.15:404][ 25]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.22.15:406][ 25]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_30
+[2022.11.13-20.22.15:407][ 25]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_30
+[2022.11.13-20.22.16:106][ 86]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.22.16:106][ 86]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.22.16:109][ 86]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_31
+[2022.11.13-20.22.16:110][ 86]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_31
+[2022.11.13-20.25.44:622][693]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier_C
+[2022.11.13-20.25.44:622][693]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier_C
+[2022.11.13-20.25.44:627][693]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier as actor: BP_Chandalier_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Chandalier_C_2
+[2022.11.13-20.25.44:631][693]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier as actor: BP_Chandalier_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Chandalier_C_2
+[2022.11.13-20.25.45:725][756]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier_C
+[2022.11.13-20.25.45:725][756]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier_C
+[2022.11.13-20.25.45:731][756]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier as actor: BP_Chandalier_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Chandalier_C_3
+[2022.11.13-20.25.45:735][756]LogActorFactory: Actor Factory spawned Blueprint /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier as actor: BP_Chandalier_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Chandalier_C_3
+[2022.11.13-20.27.46:090][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.11.13-20.27.46:159][408]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dungeon_Auto1
+[2022.11.13-20.27.46:160][408]LogSavePackage: Moving '../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Saved/Dungeon_Auto102B2F9C64795FEDF0C8969BAC7F04591.tmp' to '../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Saved/Autosaves/Game/Dungeon_Auto1.umap'
+[2022.11.13-20.27.46:165][408]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dungeon' took 0.114
+[2022.11.13-20.27.46:166][408]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.114
+[2022.11.13-20.30.14:393][596]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.30.14:393][596]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.30.14:395][596]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_33
+[2022.11.13-20.30.14:396][596]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_33
+[2022.11.13-20.30.15:352][681]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.30.15:352][681]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.30.15:355][681]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_34
+[2022.11.13-20.30.15:356][681]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_34
+[2022.11.13-20.33.08:796][128]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.33.08:796][128]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.33.08:798][128]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_36
+[2022.11.13-20.33.08:799][128]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_36
+[2022.11.13-20.33.09:586][201]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.33.09:586][201]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Torch_Dungeon.BP_Torch_Dungeon_C
+[2022.11.13-20.33.09:588][201]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_37
+[2022.11.13-20.33.09:589][201]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Torch_Dungeon.BP_Torch_Dungeon as actor: BP_Torch_Dungeon_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Torch_Dungeon_C_37
+[2022.11.13-20.34.13:714][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.11.13-20.34.13:740][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeon" FILE="../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Content/Dungeon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.13-20.34.13:765][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.11.13-20.34.13:827][673]LogSavePackage: Moving output files for package: /Game/Dungeon
+[2022.11.13-20.34.13:828][673]LogSavePackage: Moving '../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Saved/DungeonC2648E44415D02FFE546FB9C42B4C503.tmp' to '../../../../../../Users/lluca/Documents/Unreal Projects/TreasureRetrieval/Content/Dungeon.umap'
+[2022.11.13-20.34.13:839][673]LogFileHelpers: Saving map 'Dungeon' took 0.100
+[2022.11.13-20.34.13:849][673]AssetCheck: New page: Asset Save: Dungeon
+[2022.11.13-20.34.13:849][673]LogContentValidation: Display: Validating World /Game/Dungeon.Dungeon
+[2022.11.13-20.34.28:686][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
