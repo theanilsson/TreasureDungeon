@@ -1,0 +1,437 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "TreasureRetrieval Win64 Debug Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TreasureRetrieval",
+				"Win64",
+				"Debug",
+				"C:\\Users\\lluca\\Documents\\Unreal Projects\\TreasureRetrieval\\TreasureRetrieval.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "TreasureRetrieval Win64 Debug Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TreasureRetrieval",
+				"Win64",
+				"Debug",
+				"C:\\Users\\lluca\\Documents\\Unreal Projects\\TreasureRetrieval\\TreasureRetrieval.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TreasureRetrieval Win64 Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "TreasureRetrieval Win64 Debug Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TreasureRetrieval",
+				"Win64",
+				"Debug",
+				"C:\\Users\\lluca\\Documents\\Unreal Projects\\TreasureRetrieval\\TreasureRetrieval.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "TreasureRetrieval Win64 DebugGame Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TreasureRetrieval",
+				"Win64",
+				"DebugGame",
+				"C:\\Users\\lluca\\Documents\\Unreal Projects\\TreasureRetrieval\\TreasureRetrieval.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "TreasureRetrieval Win64 DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TreasureRetrieval",
+				"Win64",
+				"DebugGame",
+				"C:\\Users\\lluca\\Documents\\Unreal Projects\\TreasureRetrieval\\TreasureRetrieval.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TreasureRetrieval Win64 DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "TreasureRetrieval Win64 DebugGame Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TreasureRetrieval",
+				"Win64",
+				"DebugGame",
+				"C:\\Users\\lluca\\Documents\\Unreal Projects\\TreasureRetrieval\\TreasureRetrieval.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "TreasureRetrieval Win64 Development Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TreasureRetrieval",
+				"Win64",
+				"Development",
+				"C:\\Users\\lluca\\Documents\\Unreal Projects\\TreasureRetrieval\\TreasureRetrieval.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "TreasureRetrieval Win64 Development Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TreasureRetrieval",
+				"Win64",
+				"Development",
+				"C:\\Users\\lluca\\Documents\\Unreal Projects\\TreasureRetrieval\\TreasureRetrieval.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TreasureRetrieval Win64 Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "TreasureRetrieval Win64 Development Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TreasureRetrieval",
+				"Win64",
+				"Development",
+				"C:\\Users\\lluca\\Documents\\Unreal Projects\\TreasureRetrieval\\TreasureRetrieval.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "TreasureRetrieval Win64 Test Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TreasureRetrieval",
+				"Win64",
+				"Test",
+				"C:\\Users\\lluca\\Documents\\Unreal Projects\\TreasureRetrieval\\TreasureRetrieval.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "TreasureRetrieval Win64 Test Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TreasureRetrieval",
+				"Win64",
+				"Test",
+				"C:\\Users\\lluca\\Documents\\Unreal Projects\\TreasureRetrieval\\TreasureRetrieval.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TreasureRetrieval Win64 Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "TreasureRetrieval Win64 Test Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TreasureRetrieval",
+				"Win64",
+				"Test",
+				"C:\\Users\\lluca\\Documents\\Unreal Projects\\TreasureRetrieval\\TreasureRetrieval.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "TreasureRetrieval Win64 Shipping Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TreasureRetrieval",
+				"Win64",
+				"Shipping",
+				"C:\\Users\\lluca\\Documents\\Unreal Projects\\TreasureRetrieval\\TreasureRetrieval.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "TreasureRetrieval Win64 Shipping Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TreasureRetrieval",
+				"Win64",
+				"Shipping",
+				"C:\\Users\\lluca\\Documents\\Unreal Projects\\TreasureRetrieval\\TreasureRetrieval.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TreasureRetrieval Win64 Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "TreasureRetrieval Win64 Shipping Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TreasureRetrieval",
+				"Win64",
+				"Shipping",
+				"C:\\Users\\lluca\\Documents\\Unreal Projects\\TreasureRetrieval\\TreasureRetrieval.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "TreasureRetrievalEditor Win64 Debug Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TreasureRetrievalEditor",
+				"Win64",
+				"Debug",
+				"C:\\Users\\lluca\\Documents\\Unreal Projects\\TreasureRetrieval\\TreasureRetrieval.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "TreasureRetrievalEditor Win64 Debug Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TreasureRetrievalEditor",
+				"Win64",
+				"Debug",
+				"C:\\Users\\lluca\\Documents\\Unreal Projects\\TreasureRetrieval\\TreasureRetrieval.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TreasureRetrievalEditor Win64 Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "TreasureRetrievalEditor Win64 Debug Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TreasureRetrievalEditor",
+				"Win64",
+				"Debug",
+				"C:\\Users\\lluca\\Documents\\Unreal Projects\\TreasureRetrieval\\TreasureRetrieval.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "TreasureRetrievalEditor Win64 DebugGame Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TreasureRetrievalEditor",
+				"Win64",
+				"DebugGame",
+				"C:\\Users\\lluca\\Documents\\Unreal Projects\\TreasureRetrieval\\TreasureRetrieval.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "TreasureRetrievalEditor Win64 DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TreasureRetrievalEditor",
+				"Win64",
+				"DebugGame",
+				"C:\\Users\\lluca\\Documents\\Unreal Projects\\TreasureRetrieval\\TreasureRetrieval.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TreasureRetrievalEditor Win64 DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "TreasureRetrievalEditor Win64 DebugGame Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TreasureRetrievalEditor",
+				"Win64",
+				"DebugGame",
+				"C:\\Users\\lluca\\Documents\\Unreal Projects\\TreasureRetrieval\\TreasureRetrieval.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "TreasureRetrievalEditor Win64 Development Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TreasureRetrievalEditor",
+				"Win64",
+				"Development",
+				"C:\\Users\\lluca\\Documents\\Unreal Projects\\TreasureRetrieval\\TreasureRetrieval.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "TreasureRetrievalEditor Win64 Development Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"TreasureRetrievalEditor",
+				"Win64",
+				"Development",
+				"C:\\Users\\lluca\\Documents\\Unreal Projects\\TreasureRetrieval\\TreasureRetrieval.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"TreasureRetrievalEditor Win64 Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+			}
+		},
+		{
+			"label": "TreasureRetrievalEditor Win64 Development Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"TreasureRetrievalEditor",
+				"Win64",
+				"Development",
+				"C:\\Users\\lluca\\Documents\\Unreal Projects\\TreasureRetrieval\\TreasureRetrieval.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+			}
+		}
+	]
+}
