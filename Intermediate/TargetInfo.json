@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TreasureRetrieval",
+			"Path": "C:\\Users\\lluca\\Documents\\Unreal Projects\\TreasureRetrieval\\Source\\TreasureRetrieval.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TreasureRetrievalEditor",
+			"Path": "C:\\Users\\lluca\\Documents\\Unreal Projects\\TreasureRetrieval\\Source\\TreasureRetrievalEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
