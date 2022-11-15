@@ -2,6 +2,7 @@
 
 
 #include "Mover.h"
+#include "Math/UnrealMathUtility.h"
 
 // Sets default values for this component's properties
 UMover::UMover()
@@ -9,8 +10,6 @@ UMover::UMover()
 	// Set this component to be initialized when the game starts, and to be ticked every frame.  You can turn these features
 	// off to improve performance if you don't need them.
 	PrimaryComponentTick.bCanEverTick = true;
-
-	// ...
 }
 
 
@@ -18,9 +17,8 @@ UMover::UMover()
 void UMover::BeginPlay()
 {
 	Super::BeginPlay();
-
-	// ...
 	
+	OriginalLocation = GetOwner()->GetActorLocation();
 }
 
 
@@ -29,6 +27,13 @@ void UMover::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponent
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 
-	AActor* Owner = GetOwner();
+	if(ShouldMove)
+	{
+		FVector CurrentLocation = GetOwner()->GetActorLocation();
+		FVector TargetLocation = OriginalLocation + MoveOffset;
+		float Speed = FVector::Dist(OriginalLocation, TargetLocation) / TimeToTarget;
+		FVector NewLocation = FMath::VInterpConstantTo(CurrentLocation, TargetLocation, DeltaTime, Speed);
+		GetOwner()->SetActorLocation(NewLocation);
+	}
 }
 

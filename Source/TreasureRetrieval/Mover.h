@@ -23,6 +23,15 @@ protected:
 public:	
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
+private:
+	UPROPERTY(EditAnywhere, Category="Reactionary Movement")
+	FVector MoveOffset;
 
-		
+	UPROPERTY(EditAnywhere, Category="Reactionary Movement")
+	float TimeToTarget = 4;
+
+	UPROPERTY(EditAnywhere, Category="Reactionary Movement")
+	bool ShouldMove = false;
+
+	FVector OriginalLocation;
 };
