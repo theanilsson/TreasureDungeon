@@ -1,19 +1,14 @@
 {
-    "configurations": [
-        {
-            "name": "TreasureRetrievalEditor Editor Win64 Development (TreasureRetrieval)",
-            "intelliSenseMode": "msvc-x64",
-            "compileCommands": "C:\\Users\\lluca\\Documents\\Unreal Projects\\TreasureRetrieval\\.vscode\\compileCommands_TreasureRetrieval.json",
-            "cStandard": "c17",
-            "cppStandard": "c++17"
-        },
-        {
-            "name": "Win32",
-            "intelliSenseMode": "msvc-x64",
-            "compileCommands": "C:\\Users\\lluca\\Documents\\Unreal Projects\\TreasureRetrieval\\.vscode\\compileCommands_Default.json",
-            "cStandard": "c17",
-            "cppStandard": "c++17"
-        }
-    ],
-    "version": 4
+	"configurations": [
+		{
+			"name": "TreasureRetrievalEditor Editor Win64 Development (TreasureRetrieval)",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Users\\lluca\\Documents\\Unreal Projects\\TreasureRetrieval\\.vscode\\compileCommands_TreasureRetrieval.json"
+		},
+		{
+			"name": "Win32",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Users\\lluca\\Documents\\Unreal Projects\\TreasureRetrieval\\.vscode\\compileCommands_Default.json"
+		}
+	]
 }
