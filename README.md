@@ -1,2 +1,2 @@
 # TreasureDungeon
-A first person dungeoneering puzzle game slice
+A dungeon exploration puzzle game
