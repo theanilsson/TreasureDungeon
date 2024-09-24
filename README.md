@@ -1,2 +1,2 @@
 # TreasureDungeon
-A dungeon exploration puzzle game
+A dungeon exploration puzzle game slice
